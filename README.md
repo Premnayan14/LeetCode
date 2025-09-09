@@ -11,6 +11,3 @@ I use this repo to track my **problem-solving journey**, improve **DSA skills**,
 - ✅ Clean & structured folders by difficulty level  
 - ✅ Approaches explained in comments where possible  
 
----
-
-## 📂 Repository Structure
